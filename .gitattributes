@@ -1,1 +1,2 @@
 static/videos/striker.webm filter=lfs diff=lfs merge=lfs -text
+static/videos/teaser.mp4 filter=lfs diff=lfs merge=lfs -text
