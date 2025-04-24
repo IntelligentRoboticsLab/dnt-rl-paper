@@ -75,6 +75,13 @@ body {
   text-decoration: underline;
 }
 
+
+.is-disabled {
+  pointer-events: none;
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
 .author-block {
   display: inline-block;
 }
